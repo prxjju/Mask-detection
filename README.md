@@ -1,2 +1,3 @@
-# Maks-detection
-A console based application to detect the face with masks and without masks
+# FACE MASK DETECTION
+
+Live face mask detection using Deep learning and OpenCV.
